@@ -222,27 +222,5 @@ body {
     }
 }
 
-3. Pasos para entrega en GitHub
-
-    Crea un repositorio en GitHub (ej: google-static-interface).
-    Inicializa Git en tu carpeta de proyecto:
-    bash
-
-    git init
-    git add .
-    git commit -m "Primer commit: Estructura HTML y estilos básicos"
-
-    Vincula tu repositorio local con el de GitHub y sube los archivos:
-    bash
-
-    git remote add origin https://github.com/tu-usuario/google-static-interface.git
-    git push -u origin main
-
-    Realiza un segundo commit con algún ajuste (ej: modificar un color o tamaño) y sube los cambios:
-    bash
-
-    git add .
-    git commit -m "Segundo commit: Ajustes de responsividad"
-    git push
 
 La interfaz replica la estructura y estilo básico de Google, utiliza HTML semántico, diferentes selectores CSS y cumple con los requisitos de control de versiones.
