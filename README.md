@@ -4,7 +4,6 @@ Proyecto Interfaz Google
 A continuación, se presenta el código para construir la interfaz estática de Google, cumpliendo con los requisitos de HTML semántico, CSS y estructura solicitada:
 1. Estructura HTML (index.html)
 html
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -221,6 +220,5 @@ body {
         gap: 15px;
     }
 }
-
 
 La interfaz replica la estructura y estilo básico de Google, utiliza HTML semántico, diferentes selectores CSS y cumple con los requisitos de control de versiones.
